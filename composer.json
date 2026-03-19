@@ -34,5 +34,8 @@
         "maarheeze/phpcs": "^1.0",
         "phpstan/phpstan": "^2.1",
         "phpunit/phpunit": "^12"
+    },
+    "suggest": {
+        "maarheeze/uuid-laravel": "Eloquent cast and primary key support for Laravel models"
     }
 }
