@@ -1,5 +1,6 @@
 {
     "name": "maarheeze/uuid-livewire",
+    "description": "livewire integration for a simple uuid value object",
     "type": "library",
     "license": "MIT",
     "config": {
